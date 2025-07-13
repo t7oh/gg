@@ -8,4 +8,4 @@ cd gg
 
 pip install -r requirements.txt
 
-python3 phonehunter.py " هنا تحط اي رقم ولكن ببداته تحط مثلا +966 بعدها الرقم بدون 0 "
+python3 phonehunter.py " هنا تحط اي رقم ولكن ببدايته تحط مثلا +966 بعدها الرقم بدون 0 "
